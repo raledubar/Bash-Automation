@@ -1,1 +1,1 @@
-# Bash-Automatization
+# Bash-Automation
